@@ -1,0 +1,7 @@
+{
+  "name": "Colégio Luz - Educação Cristã Clássica",
+  "description": "Site institucional oficial do Colégio Luz, focado em educação cristã clássica, excelência acadêmica e formação integral.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
